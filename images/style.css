@@ -1,0 +1,232 @@
+@charset "utf-8";
+/* CSS Document */
+body,td,th {
+	font-family: Arial;
+	font-size: 12px;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #333333;
+}
+.style1 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.style2 {
+	color: #FFFFFF;
+	font-size: 11px;
+}
+.logo
+{
+    font-family:  'Agency FB';
+	font-size:40px;
+	color:#FFFFFF;
+	font-weight:bold;
+	}
+	.logoright
+{
+font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#FFFFFF;
+	font-weight:bold;
+	}
+#content{
+float:left;
+clear:both;
+width:800px;
+padding-left:10px;
+}
+#productitem{
+	float:left;
+	width:140px;
+	height:200px;
+	margin:6px;
+	text-align:center;
+	border:1px solid #CCCCCC;
+}
+.productheading{
+	height:35px;
+	font-size:11px;
+	font-weight:bold;
+	margin-top:0px;
+	padding-top:10px;
+	-moz-background-clip:border;
+	-moz-background-inline-policy:continuous;
+	-moz-background-origin:padding;
+	background:#EEEEEE url(images/featured-bg.gif) repeat scroll 0 0;
+	border-bottom:1px solid #A2C1CE;
+	vertical-align:middle;
+}
+.productheading a{
+color:#3366CC;
+text-decoration:none;
+}
+.moreinfo{
+margin-top:8px;
+}
+
+.productname{
+	width:450px;
+	float:left;
+}
+#productcontent{
+	width:450px;
+	float:left;
+}
+.largePrdtHeading {
+color:#FF980E;
+font-family:Verdana,Arial,Helvetica,sans-serif;
+font-size:21px;
+line-height:21px;
+padding-bottom:15px;
+padding-top:15px;
+float:left;
+}
+.prdtdetails  {
+color:#535353;
+font-weight:bold;
+padding-left:2px;
+width:95px;
+padding-left:5px;
+}
+
+.floatl{
+float:left;
+}
+.floatr{
+float:right;
+}
+.largeImg {
+padding-bottom:25px;
+padding-top:25px;
+}
+.largeImg img {
+width:230px;
+}
+.contentmain{
+clear:both;
+}
+.largeImgOuterLeft{
+	padding-left:10px;
+	padding-right:10px;
+	width:230px;
+}
+/*.productdetails{
+float:left;
+clear:both;
+width:100%;
+}*/
+.productdetails {
+	background:none repeat scroll 0 0 #F9F9F9;
+	border-right:1px solid #E9E9E9;
+	border-top:1px solid #E9E9E9;
+}
+.productdetails td  {
+border-bottom:1px solid #E9E9E9;
+border-left:1px solid #E9E9E9;
+font-size:12px;
+padding-left:8px;
+}
+.description{
+background:none repeat scroll 0 0 #F9F9F9;
+border:1px solid #E9E9E9;
+}
+h3#categoryname{
+width:100%;
+background-color:#CCCCCC;
+height:30px;
+text-align:center;
+vertical-align:middle;
+padding-top:10px;
+margin:0px;
+border-bottom:#CCCCCC 1px solid;
+border-left:#CCCCCC 1px solid;
+border-right:#CCCCCC 1px solid;
+
+}
+.mainmenu{
+color: #000000;
+}
+.mainmenu a{
+text-decoration:none;
+font-weight:bold;
+color:#000000;
+}
+.extraimg{
+margin:3px;
+}
+.branditem{
+border: 1px solid #CCCCCC;
+float:left;
+height:56px;
+margin:3px;
+text-align:center;
+width:126px;
+vertical-align:middle;
+}
+#brands{
+border:#999999 1px solid;
+float:left;
+margin-left:16px;
+width:575px;
+}
+.h3class{
+color:#A10302;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold;
+margin-left:5px;
+}
+#sendbutton{
+width:100%;
+text-align:center;
+height:35px;
+padding-top:5px;
+padding-bottom:12px;
+text-align:center;
+}
+.search{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-weight:bold;
+font-size:14px;
+color:#FFFFFF;
+}
+#searchitem{
+float:left;
+width:100%;
+height:85px;
+vertical-align:middle;
+border-bottom:#CCCCCC 1px solid;
+border-left:#CCCCCC 1px solid;
+border-right:#CCCCCC 1px solid;
+}
+.searchname{
+color:#A10302;
+font-family:Verdana,Arial,Helvetica,sans-serif;
+font-size:16px;
+font-weight:bold;
+text-decoration:none;
+
+}
+#imagediv{
+margin-left:10px;
+float:left;
+}
+.searchprice{
+margin-top:25px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+color:#535353;
+font-weight:bold;
+width:100px;
+float:left;
+}
+.morelink{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+font-weight:bold;
+color:#3366FF;
+}
+
